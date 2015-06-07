@@ -1,3 +1,2 @@
 # datasciencecoursera
-Test repository for Coursera Data Scientist's Toolbox course
-^p Contains only readme file
+Test repository for Coursera Data Scientist's Toolbox course. Contains only readme file.
